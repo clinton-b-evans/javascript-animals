@@ -16,6 +16,6 @@ function patAnimal(petName) {
   //console.log(animal + ' ' + 'got the pats!')
 }
 
-patAnimal(myAnimals)
-console.log("")
-patAnimal(yourAnimals)
+patAnimal(myAnimals)                                // These are my animals I mentioned in line #2
+console.log("")                                     // This creates a new space
+patAnimal(yourAnimals)                              // These are yourAnimals I guessed the names of in line #3
